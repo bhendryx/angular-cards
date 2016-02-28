@@ -6,7 +6,10 @@
 
     <groupId>angular-cards</groupId>
     <artifactId>angular-cards</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
-
+    <modules>
+        <module>cards</module>
+    </modules>
 </project>
